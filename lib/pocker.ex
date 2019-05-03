@@ -10,7 +10,7 @@ defmodule Pocker do
     "Flush",
     "Full House",
     "Four of a Kind",
-    "Strait Flush"
+    "Straight Flush"
   ]
 
   def generate_hands() do
