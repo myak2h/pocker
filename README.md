@@ -5,10 +5,11 @@
 
 ```elixir
 mix deps.get
+mix test
 mix play
 ```
 
-e.g
+## Examples
 
 ```
 New Game!
@@ -31,11 +32,5 @@ Black: 2H 3D 5S 9C KD
 White: 2D 3H 5C 9S KH
 Tie
 Play again? (y/n): n
-```
-# testing 
-
-```elixir
-mix deps.get
-mix test
 ```
 
