@@ -1,8 +1,9 @@
 # Pocker
 
-## Requirements** 
+## Requirements
+```
 It has to be written in Elixir and fully be supported by tests.
-——
+
 A poker deck contains 52 cards - each card has a suit which
 is one of clubs, diamonds, hearts, or spades
 (denoted C, D, H, and S in the input data).
@@ -68,6 +69,8 @@ Input: Black: 2H 3D 5S 9C KD White: 2C 3H 4S 8C KH
 Output: Black wins - high card: 9
 Input: Black: 2H 3D 5S 9C KD White: 2D 3H 5C 9S KH
 Output: Tie
+
+```
 
 ## Running
 
